@@ -16,5 +16,8 @@ Additionally, I added alternative text to all images so that it would be accessi
 
 ### GitHub Links
 
-dsternthal.github.io/Challenge-1
+Live Application:
+https://dsternthal.github.io/Challenge-1/
 
+GitHub Repo: 
+https://github.com/dsternthal/Challenge-1.git
