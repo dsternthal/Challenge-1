@@ -21,3 +21,6 @@ https://dsternthal.github.io/Challenge-1/
 
 GitHub Repo: 
 https://github.com/dsternthal/Challenge-1.git
+
+resources:
+I edited the code that was given in the assignment and referenced W3 schools for semantic naming conventions.
