@@ -1,20 +1,18 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Challenges in This Course
+## Danielle Sternthal Challenge One Homework
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
-### Challenge Types 
 
-The two types of Challenges are the following:
+### CSS Changes
 
-* **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format.
+Consolidated Classes that has the same style.  Please see below for reference:
 
-* **Job-seeking coding assessments** or **take-home assignments** don't provide starter code. You'll build these from scratch. Even-numbered modules follow this format.
+![Consolidated Classes that has the same style.](./assets/images/Consolidation.png) 
 
-### Challenge Elements
+### HTML Changes
 
-Challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer. 
+Renamed nonSemantic elements to semantic elements to indicate task
 
 > **Deep Dive**: To learn more about agile, read this [Wikipedia article on agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 
@@ -72,7 +70,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./02-Challenge/Assets/01-html-css-git-homework-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
