@@ -16,4 +16,5 @@ Renamed nonSemantic elements to semantic elements to indicate task
 
 ### URLS
 Live Application link: https://dsternthal.github.io/Horiseon-Refactor/
+
 Github Link: https://github.com/dsternthal/Horiseon-Refactor
